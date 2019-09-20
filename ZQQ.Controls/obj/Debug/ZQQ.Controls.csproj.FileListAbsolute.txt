@@ -1,0 +1,14 @@
+D:\Study\ZQQ.Controls\ZQQ.Controls\bin\Debug\ZQQ.Controls.dll
+D:\Study\ZQQ.Controls\ZQQ.Controls\bin\Debug\ZQQ.Controls.pdb
+D:\Study\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.csproj.CoreCompileInputs.cache
+D:\Study\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.dll
+D:\Study\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.pdb
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\bin\Debug\ZQQ.Controls.dll
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\bin\Debug\ZQQ.Controls.pdb
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.LoginPanel.resources
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.Properties.Resources.resources
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.csproj.GenerateResource.cache
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.csproj.CoreCompileInputs.cache
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.dll
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.pdb
+D:\文档\代码模板\ZQQ.Controls\ZQQ.Controls\obj\Debug\ZQQ.Controls.CloseBtn.resources
